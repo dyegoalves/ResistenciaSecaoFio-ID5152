@@ -545,8 +545,8 @@
       "name": "titulosMenuSALL",
       "persistentUuid": "bc5cfb7c-e642-4755-b8a4-5bc1c5ddfd0d",
       "width": 181,
-      "x": 332,
-      "y": 443,
+      "x": 333,
+      "y": 445,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -694,7 +694,7 @@
       "variables": [],
       "behaviors": [],
       "string": "Resistência: Seção         :::: 25cm²",
-      "font": "",
+      "font": "arial.ttf",
       "characterSize": 16,
       "color": {
         "b": 60,
@@ -751,7 +751,7 @@
       "variables": [],
       "behaviors": [],
       "string": "Seção de material :",
-      "font": "",
+      "font": "arial.ttf",
       "characterSize": 20,
       "color": {
         "b": 60,
@@ -769,7 +769,7 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "₢ 2021 SENAI-RS EAD",
+      "string": "© 2021 SENAI-RS EAD",
       "font": "",
       "characterSize": 16,
       "color": {

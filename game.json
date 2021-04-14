@@ -582,6 +582,13 @@
         "name": "voltarCena.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "arial.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "arial.ttf",
+        "userAdded": false
       }
     ],
     "resourceFolders": []

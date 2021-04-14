@@ -608,7 +608,7 @@
       "behaviors": [],
       "string": "SENAI-RS Núcleo de Educação a Distância ",
       "font": "",
-      "characterSize": 14,
+      "characterSize": 16,
       "color": {
         "b": 60,
         "g": 51,
@@ -625,7 +625,7 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "₢ 2021 SENAI-RS EAD",
+      "string": "© 2021 SENAI-RS EAD",
       "font": "",
       "characterSize": 16,
       "color": {
@@ -1090,10 +1090,10 @@
       "variables": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],

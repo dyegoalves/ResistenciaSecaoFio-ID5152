@@ -753,7 +753,7 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "₢ 2021 SENAI-RS EAD",
+      "string": "© 2021 SENAI-RS EAD",
       "font": "",
       "characterSize": 16,
       "color": {
@@ -2009,7 +2009,7 @@
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "name": "Block",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": []
     }
