@@ -139,8 +139,8 @@
       "name": "titulosMenuBot22",
       "persistentUuid": "0b2fdf33-5cce-4236-af95-72fe619da4c4",
       "width": 0,
-      "x": 616,
-      "y": 575,
+      "x": 478,
+      "y": 577,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -219,8 +219,8 @@
       "name": "titulosMenuBot2",
       "persistentUuid": "c4b676ca-cab4-4c0f-9c4b-f8d98346d795",
       "width": 0,
-      "x": 11,
-      "y": 576,
+      "x": 7,
+      "y": 577,
       "zOrder": 24,
       "numberProperties": [],
       "stringProperties": [],
@@ -437,7 +437,7 @@
       }
     },
     {
-      "bold": false,
+      "bold": true,
       "italic": false,
       "name": "titulosMenuBot2",
       "smoothed": true,
@@ -446,9 +446,9 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "SENAI-RS Núcleo de Educação a Distância ",
+      "string": "SENAI-RS - Gerência de Desenvolvimento Educacional",
       "font": "",
-      "characterSize": 16,
+      "characterSize": 14,
       "color": {
         "b": 60,
         "g": 51,
@@ -456,7 +456,7 @@
       }
     },
     {
-      "bold": false,
+      "bold": true,
       "italic": false,
       "name": "titulosMenuBot22",
       "smoothed": true,
@@ -465,9 +465,9 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "© 2021 SENAI-RS EAD",
+      "string": " ©\t2006 SENAI-RS EAD ATUALIZADO EM 2021",
       "font": "",
-      "characterSize": 16,
+      "characterSize": 14,
       "color": {
         "b": 60,
         "g": 51,

@@ -495,24 +495,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "klipartz.com - Copia.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "klipartz.com - Copia.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "s1-1-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "s1-1-2.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "56143-menu-btn-1.png",
         "kind": "image",
         "metadata": "",
@@ -588,6 +570,15 @@
         "kind": "font",
         "metadata": "",
         "name": "arial.ttf",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1bb3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1bb3.png",
+        "smoothed": true,
         "userAdded": false
       }
     ],

@@ -23,7 +23,7 @@
     "gridWidth": 32,
     "snap": false,
     "windowMask": false,
-    "zoomFactor": 0.4199999999999998
+    "zoomFactor": 0.2399999999999996
   },
   "objectsGroups": [],
   "variables": [
@@ -139,8 +139,8 @@
       "name": "titulosMenuBot",
       "persistentUuid": "7fdbf874-a9a5-447c-8374-6ba391ecefff",
       "width": 0,
-      "x": 11,
-      "y": 576,
+      "x": 7,
+      "y": 577,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -241,8 +241,8 @@
       "name": "carPlayer",
       "persistentUuid": "9fa6260f-1786-42f4-898b-ff1babd093ea",
       "width": 72,
-      "x": 94,
-      "y": 282,
+      "x": 96,
+      "y": 281,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -257,7 +257,7 @@
       "name": "garagemPista",
       "persistentUuid": "21cb2452-ff2a-432d-a9f6-4c496d05baa5",
       "width": 87,
-      "x": 706,
+      "x": 710,
       "y": 274,
       "zOrder": 1,
       "numberProperties": [],
@@ -305,7 +305,7 @@
       "name": "marcaPista",
       "persistentUuid": "e3c0e47e-4d32-4f83-ba1a-4dfef87decee",
       "width": 0,
-      "x": 702,
+      "x": 706,
       "y": 250,
       "zOrder": 1,
       "numberProperties": [],
@@ -337,7 +337,7 @@
       "name": "garagemTexto",
       "persistentUuid": "c1f600b5-1a06-4215-840e-a409efa54289",
       "width": 0,
-      "x": 711,
+      "x": 715,
       "y": 286,
       "zOrder": 2,
       "numberProperties": [],
@@ -353,8 +353,8 @@
       "name": "obstaculoPista",
       "persistentUuid": "e1966816-b466-4505-8585-90e75c7ca9f7",
       "width": 50,
-      "x": 129,
-      "y": 281,
+      "x": 121,
+      "y": 287,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -369,8 +369,8 @@
       "name": "obstaculoPista",
       "persistentUuid": "c1d35d5e-bf47-4b8a-bfbb-aad98536e62c",
       "width": 0,
-      "x": 281,
-      "y": 272,
+      "x": 284,
+      "y": 270,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -385,8 +385,8 @@
       "name": "obstaculoPista",
       "persistentUuid": "c62527e8-9d4e-49e7-af9c-c1ff25534955",
       "width": 0,
-      "x": 266,
-      "y": 185,
+      "x": 267,
+      "y": 183,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -401,8 +401,8 @@
       "name": "obstaculoPista",
       "persistentUuid": "7aed4f1d-acd6-4343-88e5-f1187339dc1a",
       "width": 0,
-      "x": 433,
-      "y": 230,
+      "x": 440,
+      "y": 234,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -417,8 +417,8 @@
       "name": "obstaculoPista",
       "persistentUuid": "0ca976ae-3c5f-4315-b524-18152717648b",
       "width": 0,
-      "x": 598,
-      "y": 198,
+      "x": 607,
+      "y": 190,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -449,8 +449,8 @@
       "name": "obstaculoPista",
       "persistentUuid": "5eeb4e46-cd41-4999-8ba8-3aae6e7b5de2",
       "width": 50,
-      "x": 587,
-      "y": 280,
+      "x": 589,
+      "y": 286,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -465,8 +465,8 @@
       "name": "obstaculoPista",
       "persistentUuid": "727a17c0-2885-4b55-be7f-fba32e89c180",
       "width": 0,
-      "x": 115,
-      "y": 198,
+      "x": 102,
+      "y": 196,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -513,8 +513,8 @@
       "name": "titulosMenuBot22",
       "persistentUuid": "0b2fdf33-5cce-4236-af95-72fe619da4c4",
       "width": 0,
-      "x": 607,
-      "y": 575,
+      "x": 478,
+      "y": 577,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -562,7 +562,7 @@
       "persistentUuid": "78bd57e5-a610-4d15-b4ac-162afb53d925",
       "width": 913,
       "x": -48,
-      "y": 333,
+      "y": 327,
       "zOrder": 22,
       "numberProperties": [],
       "stringProperties": [],
@@ -594,7 +594,7 @@
       "persistentUuid": "229f4db9-7866-4b5b-a5ee-21ee9bf3b9db",
       "width": 917,
       "x": -55,
-      "y": -211,
+      "y": -210,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -612,6 +612,22 @@
       "x": 800,
       "y": -74,
       "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 80,
+      "layer": "Block",
+      "locked": false,
+      "name": "Block",
+      "persistentUuid": "a4730a55-81bf-44d4-bbbf-6cfbb446a06a",
+      "width": 42,
+      "x": 286,
+      "y": 281,
+      "zOrder": 22,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -706,7 +722,7 @@
       }
     },
     {
-      "bold": false,
+      "bold": true,
       "italic": false,
       "name": "titulosMenuBot",
       "smoothed": true,
@@ -715,9 +731,9 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "SENAI-RS Núcleo de Educação a Distância ",
+      "string": "SENAI-RS - Gerência de Desenvolvimento Educacional",
       "font": "",
-      "characterSize": 16,
+      "characterSize": 14,
       "color": {
         "b": 60,
         "g": 51,
@@ -744,7 +760,7 @@
       }
     },
     {
-      "bold": false,
+      "bold": true,
       "italic": false,
       "name": "titulosMenuBot22",
       "smoothed": true,
@@ -753,32 +769,13 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "© 2021 SENAI-RS EAD",
+      "string": " ©\t2006 SENAI-RS EAD ATUALIZADO EM 2021",
       "font": "",
-      "characterSize": 16,
+      "characterSize": 14,
       "color": {
         "b": 60,
         "g": 51,
         "r": 11
-      }
-    },
-    {
-      "bold": true,
-      "italic": false,
-      "name": "titulosMenuBot2",
-      "smoothed": true,
-      "tags": "Moldura",
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "behaviors": [],
-      "string": "SENAI-RS Núcleo de Educação a Distância ",
-      "font": "",
-      "characterSize": 14,
-      "color": {
-        "b": 255,
-        "g": 0,
-        "r": 57
       }
     },
     {
@@ -1071,45 +1068,6 @@
       ]
     },
     {
-      "name": "inicioGaragem",
-      "tags": "Rua",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "270",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.07999999821186066,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "270-1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "garagemPista",
       "tags": "Rua",
       "type": "Sprite",
@@ -1195,7 +1153,7 @@
       "variables": [],
       "behaviors": [
         {
-          "name": "Arrastável",
+          "name": "Draggable",
           "type": "DraggableBehavior::Draggable"
         },
         {
@@ -1402,74 +1360,6 @@
       ]
     },
     {
-      "name": "btSelecSAll",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "s1",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.07999999821186066,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "s1-1-2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "klipartz",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.07999999821186066,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "klipartz.com - Copia.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "btBotaoMenuCall",
       "tags": "",
       "type": "Sprite",
@@ -1590,6 +1480,14 @@
       "disabled": false,
       "folded": false,
       "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
           "type": {
@@ -1635,18 +1533,6 @@
           },
           "parameters": [
             "btInfo",
-            "=",
-            "0"
-          ],
-          "subInstructions": []
-        },
-        {
-          "type": {
-            "inverted": false,
-            "value": "ChangeAnimation"
-          },
-          "parameters": [
-            "btSelecSAll",
             "=",
             "0"
           ],
@@ -1890,6 +1776,14 @@
             ""
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": [],
+          "subInstructions": []
         }
       ],
       "actions": [
@@ -1900,9 +1794,21 @@
           },
           "parameters": [
             "carPlayer",
-            "carPlayer.X()-3500",
+            "carPlayer.X()-2500",
             "0",
             "0"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "carPlayer",
+            "Draggable",
+            "no"
           ],
           "subInstructions": []
         }
@@ -1940,6 +1846,27 @@
             "0",
             "90",
             ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "carPlayer",
+            "Draggable",
+            "yes"
           ],
           "subInstructions": []
         }

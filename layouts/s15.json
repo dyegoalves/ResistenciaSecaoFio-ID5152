@@ -23,7 +23,7 @@
     "gridWidth": 32,
     "snap": false,
     "windowMask": false,
-    "zoomFactor": 0.44
+    "zoomFactor": 0.23999999999999985
   },
   "objectsGroups": [],
   "variables": [
@@ -139,8 +139,8 @@
       "name": "titulosMenuBot",
       "persistentUuid": "7fdbf874-a9a5-447c-8374-6ba391ecefff",
       "width": 0,
-      "x": 11,
-      "y": 576,
+      "x": 7,
+      "y": 577,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -257,7 +257,7 @@
       "name": "garagemPista",
       "persistentUuid": "21cb2452-ff2a-432d-a9f6-4c496d05baa5",
       "width": 87,
-      "x": 706,
+      "x": 710,
       "y": 276,
       "zOrder": 1,
       "numberProperties": [],
@@ -337,7 +337,7 @@
       "name": "garagemTexto",
       "persistentUuid": "c1f600b5-1a06-4215-840e-a409efa54289",
       "width": 0,
-      "x": 709,
+      "x": 713,
       "y": 292,
       "zOrder": 2,
       "numberProperties": [],
@@ -347,95 +347,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "height": 43,
+      "height": 45,
       "layer": "pistaFundoAll",
       "locked": false,
       "name": "obstaculoPista",
       "persistentUuid": "e1966816-b466-4505-8585-90e75c7ca9f7",
-      "width": 50,
+      "width": 45,
       "x": 123,
-      "y": 284,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "pistaFundoAll",
-      "locked": false,
-      "name": "obstaculoPista",
-      "persistentUuid": "c1d35d5e-bf47-4b8a-bfbb-aad98536e62c",
-      "width": 0,
-      "x": 292,
-      "y": 265,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "pistaFundoAll",
-      "locked": false,
-      "name": "obstaculoPista",
-      "persistentUuid": "c62527e8-9d4e-49e7-af9c-c1ff25534955",
-      "width": 0,
-      "x": 283,
-      "y": 135,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "pistaFundoAll",
-      "locked": false,
-      "name": "obstaculoPista",
-      "persistentUuid": "7aed4f1d-acd6-4343-88e5-f1187339dc1a",
-      "width": 0,
-      "x": 429,
-      "y": 212,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "pistaFundoAll",
-      "locked": false,
-      "name": "obstaculoPista",
-      "persistentUuid": "0ca976ae-3c5f-4315-b524-18152717648b",
-      "width": 0,
-      "x": 597,
-      "y": 174,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "pistaFundoAll",
-      "locked": false,
-      "name": "obstaculoPista",
-      "persistentUuid": "a2e8dde0-44ed-4827-a05e-4eb5fccfde63",
-      "width": 0,
-      "x": 724,
-      "y": 148,
-      "zOrder": 1,
+      "y": 310,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -443,31 +363,111 @@
     {
       "angle": 0,
       "customSize": true,
-      "height": 44,
+      "height": 45,
       "layer": "pistaFundoAll",
       "locked": false,
       "name": "obstaculoPista",
-      "persistentUuid": "5eeb4e46-cd41-4999-8ba8-3aae6e7b5de2",
-      "width": 50,
-      "x": 582,
-      "y": 281,
-      "zOrder": 1,
+      "persistentUuid": "c1d35d5e-bf47-4b8a-bfbb-aad98536e62c",
+      "width": 45,
+      "x": 292,
+      "y": 291,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 45,
+      "layer": "pistaFundoAll",
+      "locked": false,
+      "name": "obstaculoPista",
+      "persistentUuid": "c62527e8-9d4e-49e7-af9c-c1ff25534955",
+      "width": 45,
+      "x": 283,
+      "y": 161,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 45,
+      "layer": "pistaFundoAll",
+      "locked": false,
+      "name": "obstaculoPista",
+      "persistentUuid": "7aed4f1d-acd6-4343-88e5-f1187339dc1a",
+      "width": 45,
+      "x": 438,
+      "y": 238,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 45,
+      "layer": "pistaFundoAll",
+      "locked": false,
+      "name": "obstaculoPista",
+      "persistentUuid": "0ca976ae-3c5f-4315-b524-18152717648b",
+      "width": 45,
+      "x": 619,
+      "y": 198,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 45,
+      "layer": "pistaFundoAll",
+      "locked": false,
+      "name": "obstaculoPista",
+      "persistentUuid": "a2e8dde0-44ed-4827-a05e-4eb5fccfde63",
+      "width": 45,
+      "x": 724,
+      "y": 174,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 45,
+      "layer": "pistaFundoAll",
+      "locked": false,
+      "name": "obstaculoPista",
+      "persistentUuid": "5eeb4e46-cd41-4999-8ba8-3aae6e7b5de2",
+      "width": 45,
+      "x": 586,
+      "y": 307,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 45,
       "layer": "pistaFundoAll",
       "locked": false,
       "name": "obstaculoPista",
       "persistentUuid": "727a17c0-2885-4b55-be7f-fba32e89c180",
-      "width": 0,
+      "width": 45,
       "x": 138,
-      "y": 176,
-      "zOrder": 1,
+      "y": 202,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -513,8 +513,8 @@
       "name": "titulosMenuBot22",
       "persistentUuid": "0b2fdf33-5cce-4236-af95-72fe619da4c4",
       "width": 0,
-      "x": 607,
-      "y": 575,
+      "x": 478,
+      "y": 577,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -562,7 +562,7 @@
       "persistentUuid": "78bd57e5-a610-4d15-b4ac-162afb53d925",
       "width": 913,
       "x": -48,
-      "y": 334,
+      "y": 326,
       "zOrder": 22,
       "numberProperties": [],
       "stringProperties": [],
@@ -594,7 +594,7 @@
       "persistentUuid": "229f4db9-7866-4b5b-a5ee-21ee9bf3b9db",
       "width": 922,
       "x": -52,
-      "y": -260,
+      "y": -257,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -612,6 +612,38 @@
       "x": 801,
       "y": -74,
       "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 146,
+      "layer": "Block",
+      "locked": false,
+      "name": "Block",
+      "persistentUuid": "8187319b-dad2-4d11-a262-99e1c30f9c87",
+      "width": 38,
+      "x": 278,
+      "y": 271,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 146,
+      "layer": "Block",
+      "locked": false,
+      "name": "Block",
+      "persistentUuid": "408d31ec-e5de-474b-a8b6-299adde7eb47",
+      "width": 38,
+      "x": 572,
+      "y": 287,
+      "zOrder": 22,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -706,7 +738,7 @@
       }
     },
     {
-      "bold": false,
+      "bold": true,
       "italic": false,
       "name": "titulosMenuBot",
       "smoothed": true,
@@ -715,9 +747,9 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "SENAI-RS Núcleo de Educação a Distância ",
+      "string": "SENAI-RS - Gerência de Desenvolvimento Educacional",
       "font": "",
-      "characterSize": 16,
+      "characterSize": 14,
       "color": {
         "b": 60,
         "g": 51,
@@ -744,7 +776,7 @@
       }
     },
     {
-      "bold": false,
+      "bold": true,
       "italic": false,
       "name": "titulosMenuBot22",
       "smoothed": true,
@@ -753,32 +785,13 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "© 2021 SENAI-RS EAD",
+      "string": " ©\t2006 SENAI-RS EAD ATUALIZADO EM 2021",
       "font": "",
-      "characterSize": 16,
+      "characterSize": 14,
       "color": {
         "b": 60,
         "g": 51,
         "r": 11
-      }
-    },
-    {
-      "bold": true,
-      "italic": false,
-      "name": "titulosMenuBot2",
-      "smoothed": true,
-      "tags": "Moldura",
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "behaviors": [],
-      "string": "SENAI-RS Núcleo de Educação a Distância ",
-      "font": "",
-      "characterSize": 14,
-      "color": {
-        "b": 255,
-        "g": 0,
-        "r": 57
       }
     },
     {
@@ -1071,45 +1084,6 @@
       ]
     },
     {
-      "name": "inicioGaragem",
-      "tags": "Rua",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "270",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.07999999821186066,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "270-1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "garagemPista",
       "tags": "Rua",
       "type": "Sprite",
@@ -1195,7 +1169,7 @@
       "variables": [],
       "behaviors": [
         {
-          "name": "Arrastável",
+          "name": "Draggable",
           "type": "DraggableBehavior::Draggable"
         },
         {
@@ -1298,14 +1272,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 21,
+                    "y": 21
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 21,
+                    "y": 21
                   },
                   "customCollisionMask": []
                 }
@@ -1381,74 +1355,6 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "S15-1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "btSelecSAll",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "s1",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.07999999821186066,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "s1-1-2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "klipartz",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.07999999821186066,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "klipartz.com - Copia.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1635,18 +1541,6 @@
           },
           "parameters": [
             "btInfo",
-            "=",
-            "0"
-          ],
-          "subInstructions": []
-        },
-        {
-          "type": {
-            "inverted": false,
-            "value": "ChangeAnimation"
-          },
-          "parameters": [
-            "btSelecSAll",
             "=",
             "0"
           ],
@@ -1890,6 +1784,14 @@
             ""
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": [],
+          "subInstructions": []
         }
       ],
       "actions": [
@@ -1900,9 +1802,21 @@
           },
           "parameters": [
             "carPlayer",
-            "carPlayer.X()-3500",
+            "carPlayer.X()-3000",
             "0",
             "0"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "carPlayer",
+            "Draggable",
+            "no"
           ],
           "subInstructions": []
         }
@@ -1951,7 +1865,20 @@
       "folded": false,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
-      "actions": [],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "carPlayer",
+            "Draggable",
+            "yes"
+          ],
+          "subInstructions": []
+        }
+      ],
       "events": []
     }
   ],
@@ -2017,7 +1944,7 @@
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "name": "Block",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": []
     }
